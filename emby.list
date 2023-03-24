@@ -1,0 +1,4 @@
+# emby
+DOMAIN-SUFFIX,embyclub.nl
+HOST-KEYWORD,emby
+IP-CIDR, 142.54.186.202/32
