@@ -1,1 +1,4 @@
-
+# hdhive
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+HOST-KEYWORD,hdhive
