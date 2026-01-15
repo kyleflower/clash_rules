@@ -1,9 +1,8 @@
-# Generated from rule/Custom_Direct.list
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 427
-
 payload:
-  - '*hdhive*'
-  - '+.cloudflare-ech.com'
-  - '+.cloudflareinsights.com'
+  # 核心站点
+  - DOMAIN-SUFFIX,hdhive.com
+  - DOMAIN,api.hdhive.com
+  - DOMAIN,www.hdhive.com
+
+  # 避免漏掉次级域名
+  - DOMAIN-KEYWORD,hdhive
