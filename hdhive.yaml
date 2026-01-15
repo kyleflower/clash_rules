@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,hdhive.com/
+  - DOMAIN-SUFFIX,hdhive.online
+  - HOST-KEYWORD,hdhive

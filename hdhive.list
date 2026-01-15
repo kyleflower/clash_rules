@@ -1,9 +1,0 @@
-# NAME: TTT
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-05 22:37:35
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
-DOMAIN-SUFFIX,cloudflare-ech.com
-DOMAIN-SUFFIX,cloudflareinsights.com
-HOST-KEYWORD,hdhive
